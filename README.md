@@ -1,2 +1,3 @@
 # sucmydic
-first
+wassup
+yooo suc my dic
